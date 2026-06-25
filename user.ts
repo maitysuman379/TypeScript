@@ -109,7 +109,7 @@ console.log('TypeScript')
 // -----------------------   String and Boolean Data Type -----------------
 
 // var userName:string = "Suman Maity";
-// var userName1:string = 'Suman Maity';
+// var userName1:string = 'Suman Maity';                                    
 // var userName2:string = `Suman Maity`;
 // var age:number = 23;
 
@@ -138,3 +138,11 @@ console.log('TypeScript')
 
 
 // ------------------Null and Undifine Data Type --------------------------------
+var data:null | string= null;
+var data1
+ 
+data = "Suman";
+data1 = "Maity";
+
+console.log(data)
+console.log(data1)
