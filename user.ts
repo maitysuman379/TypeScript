@@ -81,10 +81,24 @@ console.log('TypeScript')
 // console.log(total)
 
 
-var oct:number = 0o100001;
-var hexa:number = 0b00001;
-var binary:number = 0x00001;
+// var oct:number = 0o100001;
+// var hexa:number = 0b00001;
+// var binary:number = 0x00001;
 
-console.log(oct)
-console.log(hexa)
-console.log(binary)
+// console.log(oct)
+// console.log(hexa)
+// console.log(binary)
+
+
+// var a:number = 10;
+// var b = '29';
+// var bConverted = Number(b)
+// console.log(a+bConverted)
+
+// var a = Number('19')
+// console.log(a)
+
+
+// var date : number | string = 30;
+// date = '25-jun-2026';
+// console.log(date)
