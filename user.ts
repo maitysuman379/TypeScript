@@ -74,7 +74,17 @@ console.log('TypeScript')
 
 
 // ----------------------------  Number Data Type_____________________
-var num1:number = 10;
-var num2:number = 20;
-var total = num1 + num2;
-console.log(total)
+// var num_1:number = 10;
+// var num_2 = '20';
+// var total= num_1 + num_2;
+
+// console.log(total)
+
+
+var oct:number = 0o100001;
+var hexa:number = 0b00001;
+var binary:number = 0x00001;
+
+console.log(oct)
+console.log(hexa)
+console.log(binary)
