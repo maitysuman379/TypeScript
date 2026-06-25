@@ -102,3 +102,39 @@ console.log('TypeScript')
 // var date : number | string = 30;
 // date = '25-jun-2026';
 // console.log(date)
+
+
+
+
+// -----------------------   String and Boolean Data Type -----------------
+
+// var userName:string = "Suman Maity";
+// var userName1:string = 'Suman Maity';
+// var userName2:string = `Suman Maity`;
+// var age:number = 23;
+
+// console.log(userName)
+// console.log(userName1)
+// console.log(userName2)
+
+
+// var info:string = `My name is ${userName}, and my age is ${age} years.`;
+// console.log(info)
+
+// var num:number = 100;
+// // var user:string = num.toString()
+// var user:string = " " + num;
+// console.log(user)
+
+// var isTrue:boolean = true;
+// var isss:string = "" + isTrue;
+// var iss:string = isTrue.toString()
+
+// console.log(typeof(isTrue)) // boolean
+// console.log(typeof(isss))  // string
+// console.log(typeof(iss))  // string
+
+// console.log(`${isTrue} , ${isss} , ${iss}`)
+
+
+// ------------------Null and Undifine Data Type --------------------------------
