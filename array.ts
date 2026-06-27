@@ -15,3 +15,9 @@ console.log(tup)
 
 // ---------------   Object   ------------------
 
+var obje:{name:string,age:number,city:string} = {
+    name : 'Suman',
+    age : 23,
+    city : 'East Medinipur'
+}
+
